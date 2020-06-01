@@ -1,6 +1,6 @@
 #include <iostream> 
 #include <string>
-
+d
 
 char guess; //Отговорете на потребителските въведения за въпрос
 int total;  //Общ резултат
